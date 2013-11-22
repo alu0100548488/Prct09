@@ -1,6 +1,6 @@
 # Implementar en este fichero las Pruebas Unitarias asociadas a la clase Matrix
 
-require "./lib/matrixfamily.rb"
+require "./lib/matrixfamily/matrixfamily.rb"
 require "test/unit"
 
 class Test_Matrix < Test::Unit::TestCase
