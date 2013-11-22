@@ -6,10 +6,10 @@ require 'matrixfamily/version'
 Gem::Specification.new do |spec|
   spec.name          = "matrixfamily"
   spec.version       = Matrixfamily::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.authors       = ["Daniel Mateos"]
+  spec.email         = ["alu0100635836@ull.edu.es"]
+  spec.description   = %q{Gema para el uso de matrices densas y dispersas}
+  spec.summary       = %q{Representación de matrices densas y dispersas}
   spec.homepage      = ""
   spec.license       = "MIT"
 
